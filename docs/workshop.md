@@ -10,12 +10,12 @@
 
 ### 关于马拉松 
 
-    * https://nebula-graph.com.cn/hackathon/ 
-    * 投票学记智能： https://github.com/vesoft-inc/nebula-community/issues/38
-    * 开源项目：https://github.com/aaron-zzh/xueji
-    * 奖金分配：50%平分、剩余由队长分配
-    * 持续合作
-    * 目标：产品原型、技术交流、奖金
+* https://nebula-graph.com.cn/hackathon/ 
+* 投票学记智能： https://github.com/vesoft-inc/nebula-community/issues/38
+* 开源项目：https://github.com/aaron-zzh/xueji
+* 奖金分配：50%平分、剩余由队长分配
+* 持续合作
+* 目标：产品原型、技术交流、奖金
 
 ### 产品定位
 
