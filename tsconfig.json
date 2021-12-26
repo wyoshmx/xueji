@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "jsxImportSource": "@emotion/react",
+    "incremental": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "noFallthroughCasesInSwitch": true,
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@components": ["src/components"],
+      "@types": ["src/lib/types"],
+      "@types/*": ["src/lib/types/*"],
+      "@containers": ["src/containers"],
+      "@containers/*": ["src/containers/*"],
+      "@styles/*": ["src/lib/styles/*"],
+      "@services": ["src/lib/services"],
+      "@services/*": ["src/lib/services/*"],
+      "@utils/*": ["src/lib/utils/*"],
+      "@lib/*": ["src/lib/*"],
+      "@lib": ["src/lib"],
+      "@images/*": ["public/images/*"],
+      "@svgs/*": ["public/svgs/*"],
+      "@wasm/*": ["public/wasm/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "coverage"]
+}
